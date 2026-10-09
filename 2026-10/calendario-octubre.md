@@ -19,8 +19,13 @@
 **Texto:**
 > ¿Dónde se ha metido? 👀 Aquí cada rincón es un escondite nuevo.
 > Así juegan los mini lops cuando tienen espacio de verdad 🌿
+> Criados en familia, con niños, en Tarragona 🤍
 >
-> #minilop #conejosminilop #minilopespaña #semilibertad #casaencalmalops #conejos #tarragona
+> 📩 Escríbenos para conocer la próxima camada.
+>
+> #minilop #conejosminilop #minilopespaña #semilibertad #casaencalmalops #minilopTarragona #minilopBarcelona #minilopValencia
+
+**Publicación automática:** Claude lo publica a las 19:30 vía Windsor.
 
 **Story del mismo día:** compartir el reel + sticker de encuesta "¿Lo has encontrado? Sí / No 😂"
 
