@@ -1,13 +1,13 @@
 # ASSOLIMENT SATISFACTORI
 
-### Guion de mediometraje · 30 min aprox.
+### Guion de mediometraje · 30 min aprox. · Versió original (català / castellà)
 
 *Una comedia sardónica sobre una junta de evaluación.*
 *Libremente inspirada en el espíritu de* La Scuola *(Daniele Luchetti, 1995).*
 
 ---
 
-> *Nota de lectura:* los nombres de personaje van en **NEGRITA**, las acotaciones en *cursiva*. Las frases en catalán se mantienen en catalán y se subtitularán. Un minuto de pantalla ≈ una página de guion estándar.
+> *VERSIÓN ORIGINAL BILINGÜE (versión de rodaje).* Los nombres de personaje van en **NEGRITA** y las acotaciones en *cursiva* (en castellano, para el equipo). Cada personaje habla en su idioma según el reparto de la biblia (apartado 4): mayoritariamente catalán; Rocío, Fermín y Pere en castellano; Jana mezclando. Traducción íntegra en `03-guion-castellano.md`. Un minuto de pantalla ≈ una página de guion estándar.
 
 ---
 
@@ -109,7 +109,7 @@ Jo també tinc pressa. Em queden dos anys, set mesos i catorze dies.
 
 **ÀLEX**  
 *(con la boca llena)*  
-Tú siempre tienes prisa por irte, Toni.
+Tu sempre tens pressa per marxar, Toni.
 
 **TONI**  
 Des del 1989.
@@ -126,7 +126,7 @@ Ai, mare.
 Això és… és del Windows, que posa fons aleatoris…
 
 **JANA**  
-No, eso es de tu Instagram. Te sigo.
+No, eso es de tu Instagram. Et segueixo. Bueno… te sigo.
 
 *Marc cambia de pantalla. Aparece la plataforma: AVALUA+. Un logo con un búho sonriente con birrete. Debajo, una parrilla gigantesca: 27 filas de nombres, 9 columnas de materias, todas las casillas vacías.*
 
@@ -282,7 +282,7 @@ Per acompanyar el procés.
 *Toni emite un sonido gutural de animal herido.*
 
 **ROCÍO**  
-Venga, que si empezamos con filosofía no salimos de aquí ni en San Juan.
+Vinga, vinga, mi arma, que si empezamos con filosofía no salimos de aquí ni por Sant Joan.
 
 **MONTSE**  
 Primer alumne. Abad, Nil.
@@ -297,7 +297,7 @@ Ah, ¿*ese* es Nil?
 Aquesta foto és de primer, Jana.
 
 **JANA**  
-Ah, vale. Es que me tenía despistada.
+Ah, vale. És que em tenia despistada… me tenía despistada.
 
 **DOLORS**  
 Jo li poso NA a tot. Per dignitat.
@@ -517,7 +517,7 @@ Chen, Lucía. AE a tot?
 *Todos asienten. Jana, sin embargo, está escribiendo en el móvil.*
 
 **JANA**  
-Perdón, una cosa. *(Levanta el móvil.)* Le he preguntado a Lucía cómo se vende ropa en Vinted, que tengo un armario que…
+Perdón, una cosa. *(Levanta el móvil.)* Li he preguntat a la Lucía cómo se vende ropa en Vinted, que tinc un armari que…
 
 **MONTSE**  
 Jana. Estem a la junta.
@@ -782,7 +782,7 @@ Yo los tengo como Jan 1 y Jan 2.
 Jana, un es diu Joan.
 
 **JANA**  
-Ah. ¿Joan, con jota? *(Mira el móvil.)* Vale, entonces les he estado poniendo las notas al revés en todo el trimestre.
+Ah. ¿Joan, amb jota? *(Mira el móvil.)* Vale, doncs… entonces les he estado poniendo les notes al revés tot el trimestre.
 
 *Pausa.*
 
@@ -1093,7 +1093,7 @@ No. Però de vegades és una pregunta. I nosaltres no la vam respondre.
 
 **ROCÍO**  
 *(bajito)*  
-Ole.
+Ole. Molt bé, Gemma. Molt bé.
 
 **MONTSE**  
 AS. Amb acompanyament. *(Escribe.)* Rius, Biel.
@@ -1466,9 +1466,9 @@ I una està escrita a mà. En un full de comandes del bar Cortés. Per darrere.
 *(lee, despacio, sin teatralidad)*  
 "Una persona que admiro. Per Dylan Cortés, 4t C.
 
-La persona que més admiro és la meva germana Aroa que té vuit anys i té síndrome de Down. La gent creu que ella no sap coses però ella sap coses que ningú sap. Sap quan la mama està cansada encara que la mama rigui. Sap quan jo no he dormit i em porta l'esmorzar al sofà encara que sigui una galeta amb mantega i es caigui tot.
+La persona que mes admiro es la meva germana Aroa que te vuit anys i te sindrome de Down. La gent creu que ella no sap cosas pero ella sap cosas que ningu sap. Sap quan la mama esta cansada encara que la mama rigui. Sap quan jo no he dormit i em porta l'asmorsar al sofa encara que sigui una galeta amb mantega i es caigui tot.
 
-A l'escola li diuen que va més lenta. Jo crec que no va més lenta, va al seu ritme i el seu ritme és bo. Si tothom anés al ritme de l'Aroa ningú es cansaria tant.
+A l'escola li diuen que va mes lenta. Jo crec que no va mes lenta, va al seu ritme i el seu ritme és bo. Si tothom anés al ritme de l'Aroa ningú es cansaria tant.
 
 Jo vull acabar l'ESO per poder fer un grau de cuina i obrir un restaurant on l'Aroa sigui la cap de sala, perquè ella fa riure a tothom i això és el més important en un restaurant, més que el menjar.
 
@@ -1641,7 +1641,7 @@ Del percentatge.
 *Los profesores se dispersan. Àlex se lleva el envoltorio del bocadillo. Dolors el tupper vacío. Jana, en la puerta, se para. Mira la pantalla de su móvil. Lo apaga. Mira a Montse.*
 
 **JANA**  
-Montse. ¿El año que viene me puedes decir cómo se llaman? Con fotos de ahora. Si sigo aquí.
+Montse. L'any que ve… ¿el año que viene me puedes decir cómo se llaman? Amb fotos d'ara. Si sigo aquí.
 
 **MONTSE**  
 *(sonríe por primera vez en la película)*  
@@ -1726,7 +1726,7 @@ Les notes, dilluns. A la plataforma.
 
 *Un "ooooh" de decepción colectivo.*
 
-*Montse camina hacia el coche. Pasa al lado de Dylan. No se para. Sin mirarlo, al pasar, le deja algo en la mano libre: el papel arrugado de la redacción, con la mancha de café. Encima, en tinta roja, alguien ha escrito "AN" y debajo, con otra letra, una letra de bolígrafo rojo de capuchón mordido: "5,00 (no és un 5) —T.R."*
+*Montse camina hacia el coche. Pasa al lado de Dylan. No se para. Sin mirarlo, al pasar, le deja algo en la mano libre: el papel arrugado de la redacción, con la mancha de café. Encima, con la letra de Montse, un "AN". Y debajo, con bolígrafo rojo de capuchón mordido, la letra de Toni: "5,00 (no és un 5) —T.R."*
 
 *Dylan mira el papel. No entiende. Luego entiende.*
 

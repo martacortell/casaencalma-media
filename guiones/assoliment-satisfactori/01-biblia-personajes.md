@@ -25,7 +25,26 @@ Montse Puigvert, tutora agotada y madre de dos críos que salen de extraescolare
 
 ## 4. Idioma
 
-El guion está escrito en castellano con el catalán natural de un claustro en Catalunya (frases cortas, muletillas, jerga del Departament). En el rodaje final se recomienda que **Montse, Toni, Dolors, Marc, Josep Maria y Gemma hablen en catalán**, **Rocío y Fermín en castellano** y **Jana** cambie de idioma a mitad de frase. Subtítulos en ambas lenguas. El bilingüismo a medias es parte de la comedia.
+**Versión original bilingüe, mayoritariamente en catalán (≈70 % catalán / 30 % castellano)**, como se habla de verdad en un claustro en Catalunya. Subtítulos en castellano, catalán e inglés.
+
+| Personaje | Idioma | Por qué |
+|---|---|---|
+| Montse, Toni, Dolors, Marc, Àlex, Gemma, Josep Maria | **Catalán** | Es la lengua de las juntas y de la burocracia del Departament. |
+| Rocío (de Jerez) | **Castellano**, con alguna palabra en catalán y acento gaditano ("Vinga, vinga, mi arma") | Su choque con Toni es oro cómico. |
+| Fermín (conserje) | **Castellano** | El "pueblo llano" que desmonta al claustro. |
+| Jana (interina) | **Mezcla a mitad de frase** | No es de ningún sitio, ni siquiera lingüísticamente. En su momento más sincero ("No conozco a ninguno") vuelve al castellano. |
+| Pere (en Teams) | **Castellano** | Encaja con la conexión rota y el caos. |
+| ProfeBot | **Catalán "de traductor automático"**: correcto, vacío y repetitivo | Parodia de la IA. |
+| Alumnos (Mireia, Dylan, Aroa, Erik), Biel | **Catalán** | La redacción de Dylan va en catalán **con sus 14 faltas reales**: es la escena clave. |
+
+**Archivos de guion:**
+- `02-guion-VO-bilingue.md`: versión de rodaje (la que se interpreta).
+- `03-guion-castellano.md`: versión íntegra en castellano, misma numeración. Base de los subtítulos en castellano, de los dosieres para productoras y festivales de habla hispana y de un posible doblaje.
+
+**Estrategia de distribución por idioma:**
+- **Ayudas y TV catalanas** (ICEC, 3Cat): la VO en catalán suele puntuar o ser requisito. Hay que comprobar los porcentajes exactos en la convocatoria vigente antes de presentarse.
+- **Festivales**: VOSE (castellano) para España y Latinoamérica; VOSI (inglés) para el circuito internacional. El tema de la IA en la educación es universal.
+- **YouTube y redes**: película completa con subtítulos en castellano activados por defecto (mercado España + Latinoamérica). Los clips cortos (Shorts, Reels, TikTok) llevan los subtítulos en castellano integrados en la imagen.
 
 ## 5. Dispositivos formales
 
